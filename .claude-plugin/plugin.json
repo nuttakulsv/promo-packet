@@ -1,0 +1,9 @@
+{
+  "name": "promo-packet",
+  "version": "0.1.0",
+  "description": "Turns a year of GitHub work into an honest, evidence-backed promotion packet: collects your PRs and reviews, interviews you for what GitHub can't see, maps it to a senior/staff/principal rubric.",
+  "author": { "name": "nuttakulsv" },
+  "homepage": "https://github.com/nuttakulsv/promo-packet",
+  "license": "MIT",
+  "keywords": ["career", "promotion", "staff-engineer", "brag-document", "performance-review", "github"]
+}

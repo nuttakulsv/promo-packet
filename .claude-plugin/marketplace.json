@@ -1,0 +1,12 @@
+{
+  "name": "promo-packet",
+  "owner": { "name": "nuttakulsv" },
+  "description": "Write an evidence-backed promotion packet from your GitHub history",
+  "plugins": [
+    {
+      "name": "promo-packet",
+      "source": "./",
+      "description": "Turns a year of GitHub work into an honest, evidence-backed promotion packet: collects your PRs and reviews, interviews you for what GitHub can't see, maps it to a senior/staff/principal rubric."
+    }
+  ]
+}
